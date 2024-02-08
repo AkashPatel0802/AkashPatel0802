@@ -16,7 +16,7 @@
 
 - 🚀 I'm a Self Driven, Quick Starter Passionate Programmer With Curious Mind Focused and enthusiastic developer with a keen interest in software development and Competitive Programming.
 
-- 💻 Primarily, my expertise revolves around React JS, Next JS, and Node JS, where I blend creativity with technical prowess to bring ideas to life.
+- 💻 Primarily, my expertise revolves around React JS, Next JS, where I blend creativity with technical prowess to bring ideas to life.
 
 
 ### - Languages and Tools...
